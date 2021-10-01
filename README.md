@@ -13,7 +13,8 @@
   <img align="left" alt="Ashish's Polywork" width="22px" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/Screenshot%202021-06-25%20at%2012.34.02%20AM.png" /> 
 </a>
 
-<br/>
+<br/> 
+
 <br/>
 
 Hi, My name is Ashish Prasad, an experienced professional possessing the skills of both a developer and an analyst, and has an eyesight to debug, and dedication, perseverance to make things work for a longer and larger scale. I take great care in the experience, architecture, and code quality of the things I build.
