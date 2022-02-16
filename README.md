@@ -23,13 +23,13 @@ Hi, My name is Ashish Prasad, an experienced professional possessing the skills 
 <img align="right" alt="GIF" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/code.gif" width="500" height="320" />
 <br/>
 
-- 🔭 I’m currently working on ETL & Automation at TIBCO Inc.
+- 🔭 I’m currently working at Leena.AI, as Software Developer
  
-- 🌱 I’m currently learning Development using MERN Stack.
+- 🌱 I’m learning Web3.0 Development.
  
-- 👯 I’m looking to collaborate on Data Analytics/ Salesforce/ Android Development.
+- 👯 I’m looking to collaborate on Frontend/Fullstack/Salesforce Consulting/Android Development
  
-- 💬 Ask me about EC2/ Salesforce or ETL/ Data Migration.
+- 💬 Ask me about React/EC2/ Salesforce or ETL/ Data Migration.
 
 - 📫 How to reach me: ashish.prasad1@yandex.com or [@programmedwords](https://twitter.com/programmedwords)
  
