@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/ashishprasadrknec">
   <img align="left" alt="Ashish's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.buymeacoffee.com/ashtvi">
-  <img align="left" alt="Ashish's Buy me a Coffee" width="22px" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" />
-</a>
 <a href="https://www.polywork.com/ashishprasad">
   <img align="left" alt="Ashish's Polywork" width="22px" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/Screenshot%202021-06-25%20at%2012.34.02%20AM.png" /> 
 </a>
